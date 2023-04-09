@@ -13,6 +13,6 @@
       pkg install bash
       pkg install python3
       pkg install git
-      git clone https://github.com/rn509/allpackagetermux
-      cd allpackagetermux
+      git clone https://github.com/rn509/allpackagetermux-
+      cd allpackagetermux-
       python3 install.py
